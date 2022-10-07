@@ -1,0 +1,10 @@
+.global-navigation { display:none; }
+.page__right-rail { display:none; }
+.main-container { margin-left:20px; width:auto; }
+.resizable-container { margin:0 auto; width:100%; max-width:1333px; }
+.mcf-wrapper { display:none; }
+#mixed-content-footer { display: none; }
+.global-footer { display:none; }
+.wds-global-footer__main { display:none; }
+.wds-global-footer__bottom-bar-row.wds-has-padding { display:none; }
+.wds-global-footer__bottom-bar-row.wds-has-border-top.mobile-site-link { display:none; }
