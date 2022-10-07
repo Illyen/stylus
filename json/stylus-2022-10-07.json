@@ -1,0 +1,196 @@
+[
+  {
+    "settings": {
+      "openEditInWindow": false,
+      "openEditInWindow.popup": false,
+      "windowPosition": {},
+      "show-badge": true,
+      "disableAll": false,
+      "exposeIframes": false,
+      "exposeStyleName": false,
+      "newStyleAsUsercss": false,
+      "styleViaXhr": false,
+      "patchCsp": false,
+      "config.autosave": true,
+      "schemeSwitcher.enabled": "system",
+      "schemeSwitcher.nightStart": "18:00",
+      "schemeSwitcher.nightEnd": "06:00",
+      "popup.breadcrumbs": true,
+      "popup.breadcrumbs.usePath": false,
+      "popup.enabledFirst": true,
+      "popup.stylesFirst": true,
+      "popup.autoResort": false,
+      "popup.borders": false,
+      "popup.findSort": "u",
+      "manage.onlyEnabled": false,
+      "manage.onlyLocal": false,
+      "manage.onlyUsercss": false,
+      "manage.onlyEnabled.invert": false,
+      "manage.onlyLocal.invert": false,
+      "manage.onlyUsercss.invert": false,
+      "manage.actions.expanded": true,
+      "manage.backup.expanded": true,
+      "manage.filters.expanded": true,
+      "manage.newUI": true,
+      "manage.newUI.favicons": false,
+      "manage.newUI.faviconsGray": true,
+      "manage.newUI.targets": 3,
+      "manage.newUI.sort": "title,asc",
+      "editor.options": {},
+      "editor.toc.expanded": true,
+      "editor.options.expanded": true,
+      "editor.lint.expanded": true,
+      "editor.publish.expanded": true,
+      "editor.lineWrapping": true,
+      "editor.smartIndent": true,
+      "editor.indentWithTabs": false,
+      "editor.tabSize": 4,
+      "editor.keyMap": "default",
+      "editor.theme": "default",
+      "editor.beautify": {
+        "selector_separator_newline": true,
+        "newline_before_open_brace": false,
+        "newline_after_open_brace": true,
+        "newline_between_properties": true,
+        "newline_before_close_brace": true,
+        "newline_between_rules": false,
+        "preserve_newlines": false,
+        "end_with_newline": false,
+        "indent_conditional": true,
+        "indent_mozdoc": true,
+        "indent_size": 4,
+        "indent_char": " ",
+        "translate_positions": [
+          {
+            "line": 0,
+            "ch": 0,
+            "sticky": null
+          },
+          {
+            "line": 0,
+            "ch": 0,
+            "sticky": null
+          }
+        ]
+      },
+      "editor.beautify.hotkey": "",
+      "editor.lintDelay": 300,
+      "editor.linter": "csslint",
+      "editor.lintReportDelay": 500,
+      "editor.matchHighlight": "token",
+      "editor.autoCloseBrackets": true,
+      "editor.autocompleteOnTyping": false,
+      "editor.contextDelete": false,
+      "editor.selectByTokens": true,
+      "editor.appliesToLineWidget": true,
+      "editor.autosaveDraft": 10,
+      "editor.livePreview": true,
+      "editor.colorpicker": true,
+      "editor.colorpicker.hexUppercase": false,
+      "editor.colorpicker.hotkey": "",
+      "editor.colorpicker.color": "",
+      "editor.colorpicker.maxHeight": 300,
+      "hotkey._execute_browser_action": "",
+      "hotkey.openManage": "",
+      "hotkey.styleDisableAll": "",
+      "sync.enabled": "google",
+      "iconset": 0,
+      "badgeDisabled": "#8B0000",
+      "badgeNormal": "#006666",
+      "headerWidth.edit": 280,
+      "headerWidth.install": 280,
+      "headerWidth.manage": 280,
+      "popupWidth": 246,
+      "updateInterval": 24
+    },
+    "order": {
+      "main": [],
+      "prio": []
+    }
+  },
+  {
+    "enabled": true,
+    "installDate": 1629799875879,
+    "name": "reddit.com",
+    "sections": [
+      {
+        "code": ".ImageBox-image {\n        max-height: 100%;\n}\n\n._3hUbl08LBz2mbXjy0iYhOS {\n    background-color: rgba(80,85,87,0);\n    font-size: 6pt;\n    visibility: hidden;\n}\n._1ti9kvv_PMZEF2phzAjsGW {\n    align-items: normal;\n}\n._3b8u2OJXaSDdBWoRB7zUoK {\n    background-color: rgba(80,85,87,0);\n    font-size: 6pt;\n}\n._1dwExqTGJH2jnA-MYGkEL- {\n    max-height: 100%;\n}",
+        "domains": [
+          "reddit.com"
+        ]
+      }
+    ],
+    "updateDate": 1630492159630,
+    "_id": "a87df3bb-e4c1-478c-b1c7-973f608dbfd3",
+    "_rev": 1630492159630,
+    "id": 1
+  },
+  {
+    "enabled": false,
+    "installDate": 1641424148431,
+    "name": "fandom.com",
+    "sections": [
+      {
+        "code": ".page__right-rail {\n    display: none;\n}\n.global-navigation {\n    display: none;\n}\n.main-container {\n    margin-left: 0;\n    min-width: 100%;\n    width: 100%;\n}\n#mixed-content-footer {\n    display: none;\n}\n.wds-global-footer {\n    display: none;\n}",
+        "domains": [
+          "fandom.com"
+        ]
+      }
+    ],
+    "updateDate": 1662712521660,
+    "_id": "eb59e9d9-ce0f-43b0-ae01-11a308c19b61",
+    "_rev": 1662712521660,
+    "id": 2
+  },
+  {
+    "enabled": true,
+    "installDate": 1643736760699,
+    "name": "tagesschau.de",
+    "sections": [
+      {
+        "code": ".horizontal-nav .swipe {\n\tdisplay: none;\n\talign-items: center;\n\theight: 3.8rem;\n}",
+        "domains": [
+          "tagesschau.de"
+        ]
+      }
+    ],
+    "updateDate": 1643736888981,
+    "_id": "4f5ac3b9-1bf6-4441-afe1-966f0cb1f759",
+    "_rev": 1643736888981,
+    "id": 3
+  },
+  {
+    "enabled": true,
+    "installDate": 1657553449744,
+    "name": "ffxiv.gamerescape.com",
+    "sections": [
+      {
+        "code": "header.user {display: none}\nheader.site.main {padding: 0}\nheader.site.main #logo {\n    background-size:50%;\n    width:326px;\n    height:30px\n}\n.nav-main {display: none}\n.nav-sub {background: #444 !important}\n.nav-page-actions {display: none}\n.cta {display: none}\n.cta-collapse {display: none}\n.subfooter {display: none}\n.social-links {display: none}",
+        "domains": [
+          "ffxiv.gamerescape.com"
+        ]
+      }
+    ],
+    "updateDate": 1657554542582,
+    "_id": "7ea042f7-8264-44c3-b2a8-541c7423c3e9",
+    "_rev": 1657554542582,
+    "id": 4
+  },
+  {
+    "enabled": true,
+    "installDate": 1662712231522,
+    "name": "fandom.com",
+    "sections": [
+      {
+        "code": ".global-navigation { display:none; }\n.page__right-rail { display:none; }\n.main-container { margin-left:20px; width:auto; }\n.resizable-container { margin:0 auto; width:100%; max-width:1333px; }\n.mcf-wrapper { display:none; }\n#mixed-content-footer { display: none; }\n.global-footer { display:none; }\n.wds-global-footer__main { display:none; }\n.wds-global-footer__bottom-bar-row.wds-has-padding { display:none; }\n.wds-global-footer__bottom-bar-row.wds-has-border-top.mobile-site-link { display:none; }\n",
+        "domains": [
+          "fandom.com"
+        ]
+      }
+    ],
+    "updateDate": 1662713068647,
+    "_id": "a83e885b-88b9-44a3-926b-773b06813da6",
+    "_rev": 1662713068647,
+    "id": 5
+  }
+]
