@@ -1,0 +1,14 @@
+header.user {display: none}
+header.site.main {padding: 0}
+header.site.main #logo {
+    background-size:50%;
+    width:326px;
+    height:30px
+}
+.nav-main {display: none}
+.nav-sub {background: #444 !important}
+.nav-page-actions {display: none}
+.cta {display: none}
+.cta-collapse {display: none}
+.subfooter {display: none}
+.social-links {display: none}
