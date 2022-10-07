@@ -12,7 +12,7 @@ Mostly for reddit galleries. WTF would you think it was a good idea to crop the 
 
 # Contents
 
-Custom Style for fandom wikis with removed bloat
-Custom Style for reddit to improve galleries in the main view and remove the weird live stream cards
-Custom Style for the FFXIV gamerescape database with smaller headers and less red
-Custom style for Tagesschau (german news site) to improve/remove the moving header
+*Custom Style for fandom wikis with removed bloat
+*Custom Style for reddit to improve galleries in the main view and remove the weird live stream cards
+*Custom Style for the FFXIV gamerescape database with smaller headers and less red
+*Custom style for Tagesschau (german news site) to improve/remove the moving header
